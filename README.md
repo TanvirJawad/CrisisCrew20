@@ -82,7 +82,7 @@ The project is organized into the following directories:
 ### Installation
 1. Clone the repository to your localhost folder.
 2. Launch XAMPP (or any other similar service) and start Apache, MySQL.
-3. Go to phpMyAdmin and create a database named `crisiscrew30`. Import the file named `crisiscrew30.sql`.
+3. Go to phpMyAdmin and create a database named `crisiscrew20`. Import the file named `crisiscrew20.sql`.
 4. Launch the site from your localhost.
 
 ## Project Database Schema
